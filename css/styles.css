@@ -1,0 +1,32 @@
+.Intro{
+    border-style: dotted;
+    border-radius: 2px;
+    font-size: 28px;
+    color:blue;
+    text-align: center;
+    border-image: 1px;
+}
+.About-Me{
+    border: 2px dotted green;
+    cursor: crosshair;
+    Color: blue;
+    text-align: center;
+    font-size: 24px;
+}
+.Projects{
+    border: 3px dotted silver;
+    color: blue;
+    text-align: center;
+    font-size: 24px;
+}
+.Contact{
+    border: 4px dashed blueviolet;
+    color: gray;
+    cursor: crosshair;
+    text-align: center;
+    font-size: 24px;
+}
+body{
+    background-color: black;
+    text-align: center;
+}
